@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **IA and Machine Learning with Python**
 
-- 👯 I’m looking to collaborate on **any Data Analysis project**
+- 👯 I’m looking to collaborate on **any Data Engineering and Data Analysis project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/segama4](https://github.com/segama4)
 
