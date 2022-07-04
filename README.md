@@ -13,9 +13,9 @@
 
 - 📝 I regularly write articles on [https://www.instagram.com/daddy.garri/](https://www.instagram.com/daddy.garri/)
 
-- 💬 Ask me about **Python or R**
+- 💬 Ask me about **Python or databases problems**
 
-- 📫 How to reach me **garriga4444@hotmail.com**
+- 📫 How to reach me [https://github.com/segama4](https://github.com/segama4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
