@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/segama4](https://github.com/segama4)
 
-- 📝 I regularly write articles on [https://www.instagram.com/daddy.garri/](https://www.instagram.com/daddy.garri/)
+- 📝 I regularly write articles on [https://www.instagram.com/garriga_/](https://www.instagram.com/garriga_/)
 
 - 💬 Ask me about **Python or databases problems**
 
-- 📫 How to reach me on [https://www.instagram.com/daddy.garri/](https://www.instagram.com/daddy.garri/)
+- 📫 How to reach me on [https://www.instagram.com/garriga_/](https://www.instagram.com/garriga_/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sergm_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sergm_04" height="30" width="40" /></a>
