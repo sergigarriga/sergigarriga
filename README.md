@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/segama4](https://github.com/segama4)
 
-- 📝 I regularly write articles on [https://www.instagram.com/garriga_/](https://www.instagram.com/garriga_/)
+- 📝 I regularly write articles on [https://www.instagram.com/sergi.garriga/](https://www.instagram.com/garriga_/)
 
 - 💬 Ask me about **Python or databases problems**
 
