@@ -63,4 +63,4 @@ Currently, the weather is: <b> 8°C, <i>clear sky</i></b></br>Today, the sun ris
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 8 December, 04:37 CET</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 8 December, 07:30 CET</p>
