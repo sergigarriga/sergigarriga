@@ -63,4 +63,4 @@ Currently, the weather is: <b> 16°C, <i>scattered clouds</i></b></br>Today, the
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 23 January, 13:40 CET</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 23 January, 16:22 CET</p>
