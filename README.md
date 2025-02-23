@@ -63,4 +63,4 @@ Currently, the weather is: <b> 12°C, <i>broken clouds</i></b></br>Today, the su
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 23 February, 04:27 CET</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 23 February, 07:27 CET</p>
