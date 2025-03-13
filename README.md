@@ -63,4 +63,4 @@ Currently, the weather is: <b> 13°C, <i>scattered clouds</i></b></br>Today, the
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 13 March, 10:23 CET</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 13 March, 13:44 CET</p>
