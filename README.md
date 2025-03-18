@@ -63,4 +63,4 @@ Currently, the weather is: <b> 8°C, <i>broken clouds</i></b></br>Today, the sun
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, 18 March, 04:32 CET</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, 18 March, 07:31 CET</p>
