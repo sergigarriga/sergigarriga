@@ -63,4 +63,4 @@ Currently, the weather is: <b> 14°C, <i>overcast clouds</i></b></br>Today, the 
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 19 April, 03:46 CEST</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Saturday, 19 April, 05:32 CEST</p>
