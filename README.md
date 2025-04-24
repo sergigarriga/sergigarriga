@@ -63,4 +63,4 @@ Currently, the weather is: <b> 19°C, <i>few clouds</i></b></br>Today, the sun r
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 24 April, 11:26 CEST</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 24 April, 14:49 CEST</p>
