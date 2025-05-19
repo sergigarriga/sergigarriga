@@ -63,4 +63,4 @@ Currently, the weather is: <b> 24°C, <i>overcast clouds</i></b></br>Today, the 
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 19 May, 14:51 CEST</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 19 May, 17:26 CEST</p>
