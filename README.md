@@ -59,8 +59,8 @@ I'm a Data Engineer and AWS Cloud Solutions Architect from Barcelona, passionate
 
 
 <h3>Welcome to <img src="https://cdn-icons-png.flaticon.com/256/10600/10600730.png" width="13"/> Barcelona!</h3>
-Currently, the weather is: <b> 22°C, <i>clear sky</i></b></br>Today, the sun rises at <b>06:27</b> and sets at <b>21:08</b>.</p>
+Currently, the weather is: <b> 19°C, <i>few clouds</i></b></br>Today, the sun rises at <b>06:27</b> and sets at <b>21:08</b>.</p>
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 21 May, 20:33 CEST</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 21 May, 23:21 CEST</p>
