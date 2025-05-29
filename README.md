@@ -2,7 +2,7 @@
 
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGd6cjhlaHhwZW0ydWJ4OHh2Zmp4NjJ1bXp1MnEzYnhrbTZvOXJmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZejHdJFD5W714EYMwU/giphy.gif" width='150'/>
 
-<h3 align="left">Data Engineer · Cloud Solutions Architect</h3>
+<h2 align="left">Data Engineer · Cloud Solutions Architect</h2>
 
 <p><b>Hi! I'm a Data Engineer and AWS Cloud Solutions Architect from Barcelona, passionate about bridging the gap between data and reality. I enjoy building data solutions and contributing to open-source projects.</b></p>
 <p><i>“Driven to bridge the gap between data and reality, one analysis at a time.”</i></p>
@@ -17,7 +17,6 @@
 <br>
 
 ## 👨‍💻 Technical Skills
-
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white" />
@@ -47,14 +46,14 @@
   <img alt="BigQuery" src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-big-query&logoColor=white" />
 </p>
 
-## 📊 Experience
+## 📊  Experience
 
 - **Data Engineer & Solutions Architect** at <a href="https://github.com/Boehringer-Ingelheim" target="_blank">Boehringer Ingelheim</a> IT Department
-  - Designing and implementing data pipelines and data solutions.
+    - Designing and implementing data pipelines and data solutions.
 - **Data Trainee** at <a href="https://github.com/Boehringer-Ingelheim" target="_blank">Boehringer Ingelheim</a> IT Department
-  - Gained experience in data analysis and engineering.
+    - Gained experience in data analysis and engineering.
 - **Data Analyst & Engineer Intern** at PortAventura World Data Department
-  - Gained experience in data analysis and engineering.
+    - Gained experience in data analysis and engineering.
 
 ## 🎓 Education
 
@@ -85,6 +84,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sergigarriga&show_icons=true&theme=default&hide_title=true" alt="Sergi's GitHub stats"/>
 </p>
 
----
-
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 29 May, 11:26 CEST</p>
+------------
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 29 May, 12:32 CEST</p>
