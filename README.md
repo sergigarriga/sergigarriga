@@ -6,7 +6,7 @@
 
 <p><b>Hi! I'm a Data Engineer and AWS Cloud Solutions Architect from Barcelona, passionate about bridging the gap between data and reality. I enjoy building data solutions and contributing to open-source projects.</b></p>
 <p><i>“Driven to bridge the gap between data and reality, one analysis at a time.”</i></p>
-<p>Right now in <img src="https://cdn-icons-png.flaticon.com/256/10600/10600730.png" width="13"/> <b>Barcelona</b>: <b>15°C, <i>clear sky</i></b> &mdash; Sunrise: <b>07:16</b> | Sunset: <b>17:53</b></p>
+<p>Right now in <img src="https://cdn-icons-png.flaticon.com/256/10600/10600730.png" width="13"/> <b>Barcelona</b>: <b>14°C, <i>clear sky</i></b> &mdash; Sunrise: <b>07:18</b> | Sunset: <b>17:52</b></p>
 
 [![Website](https://img.shields.io/badge/Website-CC5500?style=for-the-badge&logo=&logoColor=white)](http://sergigarrigamas.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergigarrigamas)
@@ -85,4 +85,4 @@
 </p>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 27 October, 22:20 CET</p>
+<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, 28 October, 02:51 CET</p>
